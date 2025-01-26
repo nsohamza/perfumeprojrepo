@@ -1,4 +1,4 @@
-# perfumeproject from FRONTEND MENTOR
+# PERFUMEPROJECT FROM FRONTEND MENTOR
 
 This project is a css and html project that comes from the frontend where by you are given two images 
 one is desktop and the other is mobile version. 
